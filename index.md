@@ -4,8 +4,7 @@ You can use the [editor on GitHub](https://github.com/Ari1907/Ari1907.githbu.io/
 
 ### Markdown
 
-```markdown
-Syntax highlighted code block
+![](https://www.elfinanciero.com.mx/resizer/7XFy8rvvWbs0bE6px9z1eTC0cCk=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/O6UC5XMEIJBV3ESXHULEWFEK2E.jpg) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
